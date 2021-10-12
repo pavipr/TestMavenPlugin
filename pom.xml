@@ -4,7 +4,7 @@
 
     <groupId>io.github.pavipr</groupId>
     <artifactId>Pluginjson</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <packaging>maven-plugin</packaging>
 
     <name>Json Reading Maven Plugin</name>
@@ -25,7 +25,8 @@
         <url>https://github.com/pavipr/TestMavenPlugin</url>
         <connection>scm:git:https://github.com/pavipr/TestMavenPlugin.git</connection>
 
-    </scm>
+      <tag>HEAD</tag>
+  </scm>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
