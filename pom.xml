@@ -24,8 +24,6 @@
     <scm>
         <url>https://github.com/pavipr/TestMavenPlugin</url>
         <connection>scm:git:https://github.com/pavipr/TestMavenPlugin.git</connection>
-
-      <tag>HEAD</tag>
   </scm>
 
     <properties>
